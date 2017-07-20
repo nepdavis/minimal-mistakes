@@ -11,4 +11,11 @@ Data science simply cannot be reduced to a Venn diagram or a three-legged stool.
 
 ## Programming Languages
 
-For the past two years my main language has been **Python**. I have used it extensively for data manipulation, analysis and machine learning, and algorithm development.  
+For the past two years my main language has been **Python**. I have used it extensively for data manipulation, analysis and machine learning, and algorithm development. That experience includes widely used packages such as NumPy, SciPy, sci-kit learn, TensorFlow, matplotlib, folium, bokeh, networkx, CVXPY, and more. 
+
+I also have experience with **C/C++**, mainly using it for algorithm development and in various coursework.
+
+Other languages I have exposure to or some experience with are:
+* **Java**, through various coursework
+* **Matlab**, testing out statistical approaches
+* **Julia**, after trying it out and comparing it to Pythona and Matlab
