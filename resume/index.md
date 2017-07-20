@@ -9,6 +9,7 @@ sidebar:
 
 Data science simply cannot be reduced to a Venn diagram or a three-legged stool. It's an intricate and complex discipline that pulls from a wide variety of techniques and domains. It's important to discuss the different tools and strategies we use to cultivate understanding from data.
 
+
 ## Programming Languages
 
 For the past two years my main language has been **Python**. I have used it extensively for data manipulation, analysis and machine learning, and algorithm development. That experience includes widely used packages such as NumPy, SciPy, sci-kit learn, TensorFlow, matplotlib, folium, bokeh, networkx, CVXPY, and more. I often use **R** for statistical analysis, and have for years; more about that later on.
@@ -22,6 +23,7 @@ Other languages I have exposure to or some experience with are:
 
 I would love the opportunity to be exposed to and pick up **Scala**, **Go**, or **Rust**.
 
+
 ## Statistical Analysis and Machine Learning
 
 Considering I'm a statistics major, **R** is my go-to language for hardcore stastical and data analysis (us statisticians don't know how to use anything else, right?). I've used it extensively in my own research and throughout my coursework at MSU. I use both **R** and **sci-kit learn** for machine learning.
@@ -29,3 +31,15 @@ Considering I'm a statistics major, **R** is my go-to language for hardcore stas
 * I have three years of experience using **SAS**, both EG and Miner, for large-scale statistical modeling
 * **Stata** is my favorite for smaller-scale economic and statistical analysis
 * **Keras** and **TensorFlow** when needed in research that allows for deep learning methodologies
+
+
+## Data Management and Processing
+
+I have used **SQL** in every data science position I've been in. It's a family staple. I typically like looking and managing my data (when it's small enough that is) in **Notepad++**, **Excel**, or **Sublime**. 
+
+When the data isn't small enough (we could call it big data I guess) I have experience using **Teradata** systems, **Hadoop**, and other tools like **Postgre** and **SAS Grid**.
+
+I also have exposure to:
+* **MongoDB** and **NoSQL**
+* FTP **FileZilla** and SFTP **PuTTY**
+* **AWS**
