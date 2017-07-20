@@ -1,7 +1,5 @@
-# main links
-main:
-  - title: "Research"
-    url: /research/
+- title: "Research"
+  url: /research/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
