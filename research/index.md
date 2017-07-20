@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Research
 modified: 2017-07-20
 tags: [research]
