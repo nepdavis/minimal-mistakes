@@ -1,7 +1,7 @@
 main:
   - title: "Research"
     url: /research/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Resume/CV"
+    url: /resume/
   # - title: "Sitemap"
   #   url: /sitemap/
