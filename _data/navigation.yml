@@ -3,5 +3,7 @@ main:
     url: /research/
   - title: "Resume/CV"
     url: /resume/
+  - title: "CV"
+    url: /cv/NateDavis_CV.pdf
   # - title: "Sitemap"
   #   url: /sitemap/
