@@ -18,6 +18,14 @@ I also have experience with **C/C++**, mainly using it for algorithm development
 Other languages I have exposure to or some experience with are:
 * **Java**, through various coursework
 * **Matlab**, testing out statistical approaches
-* **Julia**, after trying it out and comparing it to Pythona and Matlab
+* **Julia**, after trying it out and comparing it to Python and Matlab
 
 I would love the opportunity to be exposed to and pick up **Scala**, **Go**, or **Rust**.
+
+## Statistical Analysis and Machine Learning
+
+Considering I'm a statistics major, **R** is my go-to language for hardcore stastical and data analysis (us statisticians don't know how to use anything else, right?). I've used it extensively in my own research and throughout my coursework at MSU. I use both **R** and **sci-kit learn** for machine learning.
+
+* I have three years of experience using **SAS**, both EG and Miner, for large-scale statistical modeling
+* **Stata** is my favorite for smaller-scale economic and statistical analysis
+* **Keras** and **TensorFlow** when needed in research that allows for deep learning methodologies
