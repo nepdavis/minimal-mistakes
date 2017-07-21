@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Nate Davis"
-  avatar           : /assets/images/netviz.jpg
-  bio              : "*I am a third year econ and stats student at Michigan State University currently interning at Teradata for data science.*"
+  avatar           : /assets/images/IceWalk.jpg
+  bio              :
   location         : East Lansing, MI
   email            : davisna9@msu.edu
-  uri              :
+  uri              : msu.edu/~davisna9
   bitbucket        :
   codepen          :
   dribbble         :
