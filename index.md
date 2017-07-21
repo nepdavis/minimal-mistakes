@@ -1,3 +1,10 @@
+---
+title: "About"
+layout: single
+author_profile: true
+header:
+  image: /assets/images/netviz4.jpg
+---
 My name is **Nathan Davis**, but you can call me Nate. I'm a third year economics, statistics, and computer science student at Michigan State University focusing on data science and computational modeling. Before starting a data science internship at Teradata in San Diego, I previously worked for the breakfast company Kellogg's developing predictive models for marketing and trade promotions. 
 
 I currently sit on the executive board of the Michigan State University Data Science Assocation. When on campus, I focus on developing machine learning driven solutions for computational genomics and biomedical studies in the MSU Krishnan Lab. 
