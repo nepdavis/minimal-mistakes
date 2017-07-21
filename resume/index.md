@@ -37,9 +37,11 @@ Considering I'm a statistics major, **R** is my go-to language for hardcore stas
 
 I have used **SQL** in every data science position I've been in. It's a family staple. I typically like looking and managing my data (when it's small enough that is) in **Notepad++**, **Excel**, or **Sublime**. 
 
-When the data isn't small enough (we could call it big data I guess) I have experience using **Teradata** systems, **Hadoop**, and other tools like **Postgre** and **SAS Grid**.
+When the data isn't small enough (we could call it big data I guess) I have experience using **Teradata** systems, **Hadoop**, and other tools like **PostgreSQL** and **SAS Grid**.
 
-I also have exposure to:
-* **MongoDB** and **NoSQL**
-* FTP **FileZilla** and SFTP **PuTTY**
-* **AWS**
+I also have exposure to **NoSQL**, **AWS**, **MongoDB**, **FileZilla**, and **PuTTY**.
+
+
+### Visualization
+
+**Tableau** is my visualization software preference. I find it to be a great compromise between ease-of-use and incredible visualizations. That's why I've used it since high school. However, I understand many places don't use Tableau, which is why I have experience with other tools like **PowerBI** and **SAS VA**, and open source viz packages like **matplotlib**, **ggplot2**, and **bokeh**. 
