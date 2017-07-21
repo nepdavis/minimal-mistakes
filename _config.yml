@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Nate Davis"
-  avatar           : /assets/images/IceWalk.jpg
-  bio              :
+  avatar           : /assets/images/IceWalk.JPG
+  bio              : ' '
   location         : East Lansing, MI
   email            : davisna9@msu.edu
   uri              : msu.edu/~davisna9
