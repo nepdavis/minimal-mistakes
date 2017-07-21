@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en_US"
-title                    : "Home"
+title                    : "Nathan Davis"
 title_separator          : "-"
 name                     : "Nathan Davis"
 description              : "An amazing website."
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Nate Davis"
   avatar           : /assets/images/netviz.jpg
-  bio              : "I am an amazing person."
+  bio              : "I am a third year econ and stats student at Michigan State University currently interning at Teradata for data science."
   location         : East Lansing, MI
   email            : davisna9@msu.edu
   uri              :
