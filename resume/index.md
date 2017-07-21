@@ -27,7 +27,7 @@ I would love the opportunity to be exposed to and pick up **Scala**, **Go**, or 
 
 ## Technical
 
-I use **Mac OS** at home, **Windows** at work, and **Linux** in a lot of my coursework. While all three have their peak, I find any of the three to be a comfortable environment to work in. I primarily use **Git** as my vc for work, personal use, and lab use through, you guessed, **Github**.
+I use **Mac OS** at home, **Windows** at work, and **Linux** in a lot of my coursework. While all three have their perks, I find any of the three to be a comfortable environment to work in. I primarily use **Git** as my vc for work, personal use, and lab use through, you guessed, **Github**.
 
 
 
