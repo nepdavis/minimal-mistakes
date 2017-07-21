@@ -24,6 +24,13 @@ Other languages I have exposure to or some experience with are:
 I would love the opportunity to be exposed to and pick up **Scala**, **Go**, or **Rust**.
 
 
+
+## Technical
+
+I use **Mac OS** at home, **Windows** at work, and **Linux** in a lot of my coursework. While all three have their peak, I find any of the three to be a comfortable environment to work in. I primarily use **Git** as my vc for work, personal use, and lab use through, you guessed, **Github**.
+
+
+
 ## Statistical Analysis and Machine Learning
 
 Considering I'm a statistics major, **R** is my go-to language for hardcore stastical and data analysis (us statisticians don't know how to use anything else, right?). I've used it extensively in my own research and throughout my coursework at MSU. I use both **R** and **sci-kit learn** for machine learning.
@@ -31,6 +38,7 @@ Considering I'm a statistics major, **R** is my go-to language for hardcore stas
 * I have three years of experience using **SAS**, both EG and Miner, for large-scale statistical modeling
 * **Stata** is my favorite for smaller-scale economic and statistical analysis
 * **Keras** and **TensorFlow** when needed in research that allows for deep learning methodologies
+
 
 
 ## Data Management and Processing
@@ -42,6 +50,13 @@ When the data isn't small enough (we could call it big data I guess) I have expe
 I also have exposure to **NoSQL**, **AWS**, **MongoDB**, **FileZilla**, and **PuTTY**.
 
 
+
 ## Visualization
 
-**Tableau** is my visualization software preference. I find it to be a great compromise between ease-of-use and incredible visualizations. That's why I've used it since high school. However, I understand many places don't use Tableau, which is why I have experience with other tools like **PowerBI** and **SAS VA**, and open source viz packages like **matplotlib**, **ggplot2**, and **bokeh**. Check out some of my work in [research](/research/).
+**Tableau** is my visualization software preference. I find it to be a great compromise between ease-of-use and incredible visualizations. That's why I've used it since high school. However, I understand many places don't use Tableau, which is why I have experience with other tools like **PowerBI** and **SAS VA**, and open source viz packages like **matplotlib**, **ggplot2**, and **bokeh**. For network viz, I typically use **Gephi**. Check out some of my work in [research](/research/).
+
+
+
+## Scientific Communication
+
+Almost all of my scientific or technical papers are written using **LaTeX**. Yea, I'm a nerd. **Markdown** is also comfortable to use (you're reading my Markdown right now!). For code communication, **Jupyter** shines. I use it for my **IPython notebooks** to mostly show the simulations or code that I write. 
