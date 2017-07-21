@@ -42,6 +42,6 @@ When the data isn't small enough (we could call it big data I guess) I have expe
 I also have exposure to **NoSQL**, **AWS**, **MongoDB**, **FileZilla**, and **PuTTY**.
 
 
-### Visualization
+## Visualization
 
-**Tableau** is my visualization software preference. I find it to be a great compromise between ease-of-use and incredible visualizations. That's why I've used it since high school. However, I understand many places don't use Tableau, which is why I have experience with other tools like **PowerBI** and **SAS VA**, and open source viz packages like **matplotlib**, **ggplot2**, and **bokeh**. 
+**Tableau** is my visualization software preference. I find it to be a great compromise between ease-of-use and incredible visualizations. That's why I've used it since high school. However, I understand many places don't use Tableau, which is why I have experience with other tools like **PowerBI** and **SAS VA**, and open source viz packages like **matplotlib**, **ggplot2**, and **bokeh**. Check out some of my work in (research)[/research/].
