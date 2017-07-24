@@ -5,4 +5,4 @@ author_profile: true
 modified: 2017-07-20
 ---
 
-## Research coming soon!
+{% include obesity_map.html %}
