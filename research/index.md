@@ -13,6 +13,14 @@ Network analysis of state voting behavior in every presidential election since t
 
 
 ![](/research/images/Gephi.PNG)
+---
+
+### Application of Bass Adoption Models to Google Trends Data
+May 2017 - Present
+
+I apply the Bass adoption model to cumulative Google Trends search volume index data of various contagious and viral behaviors, like the ALS Ice Bucket Challange, recent fake news stories, fidget spinners, and more. From here we can discern the levels of innovation and imitation within the social networks through which these behaviors spread.
+
+---
 
 
 [Map is here](/research/obesity_map.html)
