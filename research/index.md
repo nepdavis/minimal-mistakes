@@ -13,7 +13,7 @@ Network analysis of state voting behavior in every presidential election since t
 
 
 ![](/research/images/Gephi.PNG)
----
+
 
 ### Application of Bass Adoption Models to Google Trends Data
 May 2017 - Present
@@ -26,5 +26,9 @@ I apply the Bass adoption model to cumulative Google Trends search volume index 
 May 2017 - Present
 
 This study is being carried out under the supervision of Prof. Arjun Krishnan in the MSU Krishnan Lab. I use various dimensionality reduction and regression techniques to generate thousands of models to predict levels of expression for tens of thousands of genes in various tissues using only blood sample gene expression levels.
+
+---
+
+
 
 [Map is here](/research/obesity_map.html)
