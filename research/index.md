@@ -29,6 +29,52 @@ This study is being carried out under the supervision of Prof. Arjun Krishnan in
 
 ---
 
+### Agent-based Risk Adoption in a Closed Economy
+March 2017 - Present
 
+---
+
+### MCMC Virus Simulation with Varying Degrees of Separation
+February 2017 - May 2017
+
+---
+
+### Survey of Random Sampling Techniques
+January 2017 - March 2017
+
+---
+
+### Analytical Approach to Changing World Economic Systems
+September 2016 - December 2016
+
+---
+
+### *MSU Dept. of Economics*, Marriage Market Equilbria
+September 2015 - May 2016
+
+---
+
+### *Kellogg's*, Using Google Trends as an Effective Measure of Sales and Engagement
+June 2015 - August 2015
+
+---
+
+### Predicting Solar PV Adoption in California
+April 2015 - June 2015
+
+---
+
+### Obesity Prevalence Prediction with Autoregressive Models
+March 2015 - June 2015
 
 [Map is here](/research/obesity_map.html)
+
+---
+
+### Likert Scaling Economic Sentiments of Comparative Systems
+February 2015 - May 2015
+
+---
+
+### Application of Mathematical Modeling to Contagious Behaviors
+September 2014 - February 2015
