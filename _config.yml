@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Nate Davis"
-  avatar           :
+  avatar           : /assets/images/selfpic.jpg
   bio              : "Data science intern and MSU student"
   location         : East Lansing, MI
   email            : davisna9@msu.edu
