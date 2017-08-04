@@ -37,6 +37,8 @@ March 2017 - Present
 ### MCMC Virus Simulation with Varying Degrees of Separation
 February 2017 - May 2017
 
+Developed an SIR style Markov chain Monte Carlo (MCMC) that simulated spreads of viruses over static networks with varying densities derived from degrees of separation which was implemented in Python. This was used to study herd immunity and vaccination thresholds in a population. We submitted the code to the MSU High Performance Computing Center (HPCC) to run thousands of simulations for networks with millions of nodes.
+
 ---
 
 ### Survey of Random Sampling Techniques
